@@ -31,6 +31,7 @@ Proje sonunda modellerin performansları karşılaştırılmış ve sağlık ver
 ## 📂 Dosya Yapısı
 - `diyabet_tahmini_uyg1.ipynb`: Proje kodlarını ve analizleri içeren Jupyter Notebook dosyası.
 - `diabetes.csv`: Kaggle üzerinden temin edilen Pima Indians Diabetes veri seti.
-
+  
+**⚠️ Önemli Uyarı:** Bu proje eğitim ve araştırma amaçlı bir akademik çalışmadır. Üretilen sonuçlar ve tahminler tıbbi tavsiye niteliği taşımaz. Gerçek bir teşhis veya tedavi süreci için mutlaka bir uzman hekime danışınız.
 
 
